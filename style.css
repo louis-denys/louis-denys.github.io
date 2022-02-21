@@ -1,0 +1,43 @@
+html{
+    font-family: 'JetBrains Mono';
+    font-weight: 700;
+    font-size: small;
+    background-color: #161320
+}
+
+div{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0em;
+    margin-inline-end: 0em;
+}
+
+h1{
+    color: gray;
+}
+
+h2{
+    color: #E8A2AF
+}
+
+p{
+    color: 	#DDA0DD;
+}
+
+a{
+    color: cyan;
+}
+
+#key{
+    color: orange;
+}
+
+#content {
+    max-width: 80em;
+    margin: auto;
+}
+header{
+    max-width: 10em;
+    margin: auto;
+}
