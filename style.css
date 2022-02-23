@@ -97,7 +97,12 @@ h1{
 h2{
     color: #E8A2AF
 }
-
+h3{
+    color: #E8A2AF
+}
+ul{
+    color: 	#DDA0DD;
+}
 p{
     
     color: 	#DDA0DD;
@@ -122,3 +127,4 @@ header{
     max-width: 10em;
     margin: auto;
 }
+
