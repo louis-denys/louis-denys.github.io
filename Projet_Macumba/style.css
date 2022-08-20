@@ -36,7 +36,7 @@ p{
 }
 
 ul{
-    margin-left: 60%;
+    margin-left: 3%;
     color: #F2E3D5
 }
 
@@ -58,13 +58,6 @@ div.contact{
     color: #F2E3D5
 }
 
-img.image_foule{
-    max-height: 350px;
-    height: 100%;
-    width: auto;
-    padding: 2%;
-    padding-left: 10%;
-}
 
 #tarifs{
     text-align: center;
@@ -72,4 +65,3 @@ img.image_foule{
     color: #171940;
     font-size: 150%
 }
-
