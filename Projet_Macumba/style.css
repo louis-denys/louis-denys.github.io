@@ -45,8 +45,7 @@ li{
 }
 
 div.image_macumba{
-    height: 100%;
-    max-height: 600px;
+    height: 600px;
     background-image: url("image/macumba.jpg");
     background-size: cover;
     background-position: center;
@@ -60,7 +59,8 @@ div.contact{
 }
 
 img.image_foule{
-    height: 350px;
+    max-height: 350px;
+    height: 100%;
     width: auto;
     padding: 2%;
     padding-left: 10%;
@@ -72,3 +72,4 @@ img.image_foule{
     color: #171940;
     font-size: 150%
 }
+
