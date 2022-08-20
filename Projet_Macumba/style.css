@@ -45,7 +45,8 @@ li{
 }
 
 div.image_macumba{
-    height: 600px;
+    height: 100%;
+    max-height: 600px;
     background-image: url("image/macumba.jpg");
     background-size: cover;
     background-position: center;
